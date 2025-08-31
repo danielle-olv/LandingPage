@@ -27,3 +27,6 @@ O projeto simula a página de um restaurante, destacando cardápio, avaliações
 * [JQuery](https://jquery.com)
 * [ScrollReveal](https://scrollrevealjs.org)
 * [SVG Wave Generator](https://www.softr.io/tools/svg-wave-generator)
+
+## 🌐 Hospedagem no GitHub Pages
+Confira o site pelo seu computador ou smartphone clicando [aqui](https://danielle-olv.github.io/LandingPage).
